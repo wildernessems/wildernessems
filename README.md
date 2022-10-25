@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Most of my work happens over on [GitLab](https://gitlab.com/toyli), but sometimes I contribute here too.
 <!--
 **wildernessems/wildernessems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
